@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\webapp\fmgapp\publish\fmgapp.exe
+C:\Users\Admin\Desktop\webapp\fmgapp\publish\appsettings.Development.json
+C:\Users\Admin\Desktop\webapp\fmgapp\publish\appsettings.json
+C:\Users\Admin\Desktop\webapp\fmgapp\publish\fmgapp.dll
+C:\Users\Admin\Desktop\webapp\fmgapp\publish\fmgapp.deps.json
+C:\Users\Admin\Desktop\webapp\fmgapp\publish\fmgapp.runtimeconfig.json
+C:\Users\Admin\Desktop\webapp\fmgapp\publish\fmgapp.pdb
